@@ -1,4 +1,4 @@
-# WordCards / TSVFile 完整實作
+# WordCards
 
 這份壓縮檔依照 `07_wordcards_114-2_0520.pdf` 實作兩個 Windows Forms 專案：
 
