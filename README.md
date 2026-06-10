@@ -12,6 +12,8 @@
 - 讀取 `WordCards.txt`
 - 左側顯示單字清單
 - 顯示單字、音標、解釋
+<img width="852" height="488" alt="image" src="https://github.com/user-attachments/assets/c2b2002f-fbf3-4f0f-8ff7-8e46ef5f8bba" />
+
 - 播放 `Sound/A/*.mp3` 單字發音
 - `Play / Stop` 自動播放，Timer 間隔 2000 ms
 - `上一個` 按鈕：往前一個單字並播放
@@ -21,9 +23,14 @@
 - `Space` 重播目前單字
 - 點選單字會顯示並播放
 - 雙擊單字可開啟編輯視窗
+<img width="842" height="496" alt="image" src="https://github.com/user-attachments/assets/826128ac-e069-46dc-941f-5970a91b5cf4" />
 - 編輯後會存回 `WordCards.txt`
+
 - 保留原始 Unicode / UTF-16 單字檔格式，音標可正常顯示
 - 已加上簡單美編：上方藍色標題列、中文字體、按鈕配色、左側清單底色、解釋區塊框線與提示文字
+  改過的截圖畫面
+<img width="850" height="484" alt="image" src="https://github.com/user-attachments/assets/459e2650-eb0e-4dbe-86c6-9d39e7ee50be" />
+
 
 ### TSVFile
 
